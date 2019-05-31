@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ajzolnoski\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ajzolnoski\\Documents\\GitHub\\POC-Zolnoski\\ProductMicroservice\\ProductMicroservice\\ProductMicroservice.csproj",
+      "projectName": "ProductMicroservice",
+      "projectPath": "C:\\Users\\ajzolnoski\\Documents\\GitHub\\POC-Zolnoski\\ProductMicroservice\\ProductMicroservice\\ProductMicroservice.csproj",
+      "packagesPath": "C:\\Users\\ajzolnoski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ajzolnoski\\Documents\\GitHub\\POC-Zolnoski\\ProductMicroservice\\ProductMicroservice\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ajzolnoski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://tvx-tfs1.corp.westworlds.com:8080/tfs/TvxCollection/_packaging/TeleVoxASP/nuget/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
